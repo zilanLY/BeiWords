@@ -5,7 +5,7 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
 import androidx.lifecycle.AndroidViewModel
-import com.beiwords.app.data.BeiWordsDbHolder
+import com.beiwords.app.BeiWordsDbHolder
 import com.beiwords.app.data.Progress
 import com.beiwords.app.data.Word
 import com.beiwords.app.engine.SrsEngine
